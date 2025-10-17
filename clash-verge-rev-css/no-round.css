@@ -1,0 +1,4 @@
+[class*="Mui"][class*="-root"] {
+    --radius: 0px !important;
+    border-radius: 0 !important;
+}

@@ -1,0 +1,3 @@
+[submodule "windows"]
+	path = windows
+	url = https://github.com/valinet/Win11DisableRoundedCorners.git

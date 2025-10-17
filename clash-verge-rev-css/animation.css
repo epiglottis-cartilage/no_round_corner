@@ -1,0 +1,9 @@
+*,
+*::before,
+*::after {
+    /*change time of animations or totally disable it*/
+    /* animation-duration: 0.2s !important; */
+    /* transition-duration: 0.1s !important; */
+    animation: none !important;
+    transition: none !important;
+}
